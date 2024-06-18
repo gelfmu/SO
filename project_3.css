@@ -1,0 +1,24 @@
+p{
+    text-align: center;
+    font-weight: 700;
+}
+
+h1{
+    font-weight: 1100;
+    text-align: center;
+}
+
+body{
+    background-image:
+    linear-gradient(to right, rgb(225, 189, 154), white);
+}
+
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    display: grid;
+    place-items: center;
+}
